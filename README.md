@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositórios de exemplos para estudo
+Repositório de exemplos para estudo
